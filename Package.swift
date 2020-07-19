@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/DeclarativeHub/ReactiveKit.git", .upToNextMajor(from: "3.14.2")),
-        .package(url: "https://github.com/GrodFor/Differ.git", .upToNextMajor(from: "1.4.3"))
+        .package(url: "https://github.com/GrodFor/Differ.git", .branch("master"))
     ],
     targets: [
         .target(name: "BNDProtocolProxyBase"),
