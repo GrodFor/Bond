@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "Differ",
-        "repositoryURL": "https://github.com/tonyarnold/Differ.git",
+        "repositoryURL": "https://github.com/GrodFor/Differ.git",
         "state": {
           "branch": null,
-          "revision": "e2cca36e7258dd8add88ae46b5ea56509b066e21",
+          "revision": "e9e8ccce98752e24f38234d0d72382a2a432911c",
           "version": "1.4.3"
         }
       },
